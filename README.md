@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zynab mujeeb(s)
-- 👀 I’m an Accountant and data Analyst
+- 👀 I’m an Accountant and Data Analyst
 - 🌱 I’m currently learning Data Analytics:SQL,Microsoft Excel
 - 💞️ I’m looking to collaborate with organisation who are in need of Data Analyst
 - 📫 How to reach me. facebook/linkedin
