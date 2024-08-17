@@ -1,6 +1,6 @@
- 👋 Hi
--  I’m zynab mujeeb salam
-- 👀 I’m an Accountant and Data Analyst
+## 👋 HELLO
+##  I’m zynab mujeeb salam
+# 👀 I’m an Accountant and Data Analyst
 - 🌱 I’m currently learning Data Analytics with dahel tech
 - 💞️ I’m looking to collaborate with organisation who are in need of Data Analyst
 - 📫 How to reach me. zynabsalamujeeb@gmail.com
